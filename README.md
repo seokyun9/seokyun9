@@ -2,5 +2,7 @@ README
 ======
 hello world!
 
-Hongik university
-major : school of liberty studies
+24학번 한서경입니다.
+
+> Hongik university
+> major : school of liberty studies
